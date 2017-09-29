@@ -1,0 +1,2 @@
+# psychic-demonstration
+strcopy/strncopy
